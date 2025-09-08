@@ -1,4 +1,9 @@
-# Hi there 👋 I'm **Nishigandha Kakade**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=950&lines=Hi+there,+I'm+Nishigandha+Kakade;Welcome+to+my+GitHub+Profile!"
+    alt="Typing SVG Banner"
+  />
+</p>
 
 📍 Ahilyanagar, India  
 📧 [nishigandhakakade10@gmail.com](nishigandhakakade10@gmail.com)  
