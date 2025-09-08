@@ -1,0 +1,61 @@
+# Hi there 👋 I'm **Nishigandha Kakade**
+
+📍 Ahilyanagar, India  
+📧 [nishigandhakakade10@gmail.com](nishigandhakakade10@gmail.com)  
+🔗 [LinkedIn](http://www.linkedin.com/in/nishigandha-kakade-54ab53270) | [GitHub](https://github.com/nishigandha1234) | [Portfolio](https://nishigandha1234.github.io/Portfolio/)
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Software Tester** and **Full Stack Java Developer**, constantly learning and improving my skills in software testing, backend development, and web technologies. With hands-on experience in both manual and automation testing, I focus on writing efficient test cases, performing regression, functional, and system testing, and optimizing test scenarios to ensure maximum coverage.
+
+I'm proficient in **Core Java, SQL, HTML5, CSS3**, and **Swift**, and have practical experience with tools like **Jira, Git, Eclipse, IntelliJ IDEA**, and **Visual Studio Code**. I thrive in agile environments and enjoy collaborating with teams to deliver high-quality, bug-free software.
+
+Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testyantra Pvt. Ltd., working on real-time projects and backend solutions while applying modern development and testing practices.
+
+---
+
+## 🛠 Skills
+
+✔ Core Java | SQL | HTML5 | CSS3 | Swift  
+✔ Manual Testing | Functional & Regression Testing | API Testing  
+✔ SDLC & STLC Processes | Agile Workflows  
+✔ Tools: Jira, Git, Eclipse, IntelliJ IDEA, Visual Studio Code, SQL*Plus  
+✔ Strong Analytical Thinking | Excellent Communication | Interpersonal Skills  
+
+---
+
+## 📂 Projects
+
+### ✅ **Testing of ShopperStack Website**
+- Performed comprehensive manual testing for modules like Login, Cart, Payment, and Logout.
+- Designed and executed test cases aligned with SDLC and STLC.
+
+### ✅ **Personal Portfolio Website**
+- Created a fully responsive portfolio to showcase projects, skills, and professional details.
+- Used HTML, CSS, JavaScript, and Bootstrap.
+
+### ✅ **E-waste Facility Locator (Smart India Hackathon – Runner Up)**
+- Developed a web platform to help users find e-waste disposal centers.
+- Used HTML, CSS, PHP, Python, and MySQL.
+
+---
+
+## 🎖 Achievements
+
+🏆 **Runner Up – Smart India Hackathon 2023**  
+🎓 **Certified in Generative AI by Microsoft**  
+📚 **Paper Published at NCIECT 2025**  
+📱 **Certified in iOS Development (A+ Grade)**  
+🌟 **Campus Ambassador – DEVTOWN Pvt. Ltd.**
+
+---
+
+## 📈 Let's Connect!
+
+I'm always excited to collaborate, learn, and contribute to innovative projects. Feel free to explore my work, connect with me, or reach out for exciting opportunities!
+
+---
+
+**Let's build something amazing together! 🚀**
