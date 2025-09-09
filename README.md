@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Tester** and **Full Stack Java Developer**, constantly learning and improving my skills in software testing, backend development, and web technologies. With hands-on experience in both manual and automation testing, I focus on writing efficient test cases, performing regression, functional, and system testing, and optimizing test scenarios to ensure maximum coverage.
+A **Full Stack Java Developer** with hands-on experience in building scalable web applications and robust backend systems.Proficient in Core Java, SQL, HTML, CSS and Micro services with a strong understanding of both frontend and backend development. Skilled in designing and developing responsive optimizing database queries, and integrating APIs to deliver seamless user experiences. Adept at collaborating across teams to deliver high-quality software solutions on time. Seeking a challenging development role to contribute technical expertise, drive innovation and build impactful applications. With hands-on experience in both Core-Java as well as manual testing. I focus on writing efficient test cases, performing regression, functional, and system testing, and optimizing test scenarios to ensure maximum coverage.
 
 I'm proficient in **Core Java, SQL, HTML5, CSS3**, and **Swift**, and have practical experience with tools like **Jira, Git, Eclipse, IntelliJ IDEA**, and **Visual Studio Code**. I thrive in agile environments and enjoy collaborating with teams to deliver high-quality, bug-free software.
 
@@ -24,8 +24,7 @@ Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testy
 ## 🛠 Skills
 
 ✔ Core Java | SQL | HTML5 | CSS3 | Swift  
-✔ Manual Testing | Functional & Regression Testing | API Testing  
-✔ SDLC & STLC Processes | Agile Workflows  
+✔ Manual Testing | Functional & Regression Testing | API Testing |SDLC & STLC Processes | Agile Workflows  
 ✔ Tools: Jira, Git, Eclipse, IntelliJ IDEA, Visual Studio Code, SQL*Plus  
 ✔ Strong Analytical Thinking | Excellent Communication | Interpersonal Skills  
 
