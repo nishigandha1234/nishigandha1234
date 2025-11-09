@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-A **Full Stack Java Developer** with hands-on experience in building scalable web applications and robust backend systems. Proficient in **Core Java, SQL, HTML, CSS, Micro services** and **Swift** with a strong understanding of both **frontend and backend development**. ALso having good knowledge of Frameworks like Hibernate, JDBC, Spring DATA JPA.Skilled in designing and developing responsive optimizing database queries and integrating APIs to deliver seamless user experiences. Adept at collaborating across teams to deliver high-quality software solutions on time. Seeking a challenging development role to contribute technical expertise, drive innovation and build impactful applications. With hands-on experience in both Core-Java as well as manual testing. I focus on writing efficient test cases, performing regression, functional, system testing and optimizing test scenarios to ensure maximum coverage.
+A **Full Stack Java Developer** with hands-on experience in building scalable web applications and robust backend systems. Proficient in **Core Java, SQL, HTML, CSS** and **Swift** with a strong understanding of both **frontend and backend development**. Also having good knowledge of Frameworks like Hibernate, JDBC, Spring DATA JPA, Springboot, Spring MVC, Spring Security.Skilled in designing and developing responsive optimizing database queries and integrating APIs to deliver seamless user experiences. Adept at collaborating across teams to deliver high-quality software solutions on time. Seeking a challenging development role to contribute technical expertise, drive innovation and build impactful applications. With hands-on experience in both Core-Java as well as manual testing. I focus on writing efficient test cases, performing regression, functional, system testing and optimizing test scenarios to ensure maximum coverage.
 
-Have practical experience with tools like **Jira, Git, Eclipse, IntelliJ IDEA, SQL*Plus** and **Visual Studio Code**. I thrive in agile environments and enjoy collaborating with teams to deliver high-quality, bug-free software.
+Have practical experience with tools like **Maven, Jira, Git, Editplus, Eclipse, IntelliJ IDEA, SQL*Plus** and **Visual Studio Code**. I thrive in agile environments and enjoy collaborating with teams to deliver high-quality, bug-free software.
 
 Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testyantra Pvt. Ltd., working on real-time projects and backend solutions while applying modern development and testing practices.
 
@@ -24,17 +24,24 @@ Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testy
 ## 🛠 Skills
 
 ✔ Core Java | SQL | HTML5 | CSS3 | Swift  
+✔ Spring Boot | Spring MVC | Spring Security | Hibernate | JDBC
 ✔ Manual Testing | Functional & Regression Testing | API Testing | SDLC & STLC Processes | Agile Workflows  
-✔ Tools: Jira, Git, Eclipse, IntelliJ IDEA, Visual Studio Code, SQL*Plus  
+✔ Jira, Git, Eclipse | IntelliJ IDEA | Visual Studio Code | SQL*Plus  
 ✔ Strong Analytical Thinking | Excellent Communication | Interpersonal Skills  
 
 ---
 
 ## 📂 Projects
 
-### ✅ **Testing of ShopperStack Website**
-- Performed comprehensive manual testing for modules like Login, Cart, Payment, and Logout.
-- Designed and executed test cases aligned with SDLC and STLC.
+### ✅ **NASA API Implementation (August 2025) ** 
+- Integrated NASA’s Open APIs (such as Astronomy Picture of the Day or Mars Rover 
+Photos) to fetch and display real-time space data using RESTful API calls in a Java-based 
+web application 
+- Implemented dynamic UI and data handling by parsing JSON responses and presenting 
+astronomical information and images in an interactive and user-friendly interface. 
+- Demonstrated API integration, data visualization, and exception handling skills while 
+ensuring efficient connection management and proper error handling for a seamless user 
+experience.
 
 ### ✅ **Personal Portfolio Website**
 - Created a fully responsive portfolio to showcase projects, skills, and professional details.
