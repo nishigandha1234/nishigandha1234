@@ -25,7 +25,7 @@ Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testy
 
 ✔ Core Java | SQL | HTML5 | CSS3 | Swift  
 ✔ Spring Boot | Spring MVC | Spring Security | Hibernate | JDBC
-✔ Manual Testing | Functional & Regression Testing | API Testing | SDLC & STLC Processes | Agile Workflows  
+✔ Manual Testing | Functional & Regression Testing | SDLC & STLC Processes | Agile Workflows  
 ✔ Jira, Git, Eclipse | IntelliJ IDEA | Visual Studio Code | SQL*Plus  
 ✔ Strong Analytical Thinking | Excellent Communication | Interpersonal Skills  
 
