@@ -34,7 +34,7 @@ Currently, I’m enhancing my expertise as a **Full Stack Java Intern** at Testy
 
 ## 📂 Projects
 
-### ✅ **NASA API Implementation (August 2025) ** 
+### ✅ **NASA API Implementation (August 2025)** 
 - Integrated NASA’s Open APIs (such as Astronomy Picture of the Day or Mars Rover 
 Photos) to fetch and display real-time space data using RESTful API calls in a Java-based 
 web application 
