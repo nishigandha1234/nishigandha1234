@@ -43,23 +43,35 @@ web application
 experience.
 
 ### ✅ **The Green Corner (Nov 2025)**
-- Created Full Stack SpringBoot Web-Application and Made useful web-application for shopkeepers for thier Nursery and Clients as well. I Worked on Backend Part such as used RESTful API calls in a Java-based web application.
-- Implemented dynamic UI and data handling by parsing JSON responses and presenting astronomical information and images in an interactive and user-friendly interface. 
-- Demonstrated API integration, data visualization, and exception handling skills while ensuring efficient connection management and proper error handling for a seamless user experience.
+- Designed and developed a full-stack Spring Boot web application to support nursery shopkeepers and customers, enabling efficient management of plants, inventory, and client interactions.
+- Built and exposed RESTful APIs on the backend using Java and Spring Boot, handling business logic, data persistence, and secure data flow between client and server.
+- Implemented a dynamic and responsive user interface, processing and parsing JSON responses to display structured data in an intuitive and user-friendly manner.
+- Integrated external APIs and implemented data visualization, robust exception handling, and efficient connection management to ensure reliability and smooth application performance.
+
 
 ### ✅ **Personal Portfolio Website**
-- Created a fully responsive portfolio to showcase projects, skills, and professional details.
-- Used HTML, CSS, JavaScript, and Bootstrap.
-- 
+- Designed and developed a fully responsive personal portfolio website to showcase projects, skills, and professional details.
+- Built the frontend using HTML, CSS, JavaScript, and Bootstrap, ensuring a mobile-friendly and modern UI.Implemented interactive features and smooth navigation using JavaScript to enhance user experience.
+- Optimized layout and styling with Bootstrap components and grid system for cross-browser compatibility.Created a fully responsive portfolio to showcase projects, skills, and professional details.
+   
 ---
 
-## 🎖 Achievements
+🎖 Achievements & Credentials
 
-🏆 **Runner Up – Smart India Hackathon 2023**  
-🎓 **Certified in Generative AI by Microsoft**  
-📚 **Paper Published at NCIECT 2025**  
-📱 **Certified in iOS Development (A+ Grade)**  
-🌟 **Campus Ambassador – DEVTOWN Pvt. Ltd.**
+🏆 Runner-Up – Smart India Hackathon 2023
+Recognized for problem-solving, innovation, and teamwork in a national-level hackathon.
+
+🎓 Microsoft Certified – Generative AI
+Gained hands-on knowledge of AI fundamentals, prompt engineering, and real-world use cases.
+
+📚 Research Paper Published – NCIECT 2025
+Published technical research demonstrating analytical thinking and domain expertise.
+
+📱 Certified iOS Developer (A+ Grade)
+Strong foundation in mobile application development and UI design principles.
+
+🌟 Campus Ambassador – DEVTOWN Pvt. Ltd.
+Actively contributed to developer community building, technical outreach, and event coordination.
 
 ---
 
