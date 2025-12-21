@@ -1,24 +1,6 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=JetBrains+Mono
-    &weight=700
-    &size=30
-    &duration=2300
-    &pause=650
-    &color=7C7CFF
-    &center=true
-    &vCenter=true
-    &width=1100
-    &lines=Hi+there+👋+I'm+Nishigandha+Kakade
-    ;Crafting+Clean+%26+Scalable+Code+💻
-    ;Turning+Ideas+into+Working+Applications+⚙️
-    ;Always+Learning+|+Always+Building+🚀"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=700&center=true&vCenter=true&width=1050&lines=Hi+there+👋+I'm+Nishigandha+Kakade+🌱;Building+with+Passion+%26+Precision+💡;Code.+Create.+Improve.+Repeat.+🔁;Welcome+to+My+GitHub+World+✨"alt="Typing SVG" />
 </p>
-
-
 
 
 📍 Ahilyanagar, India  
