@@ -58,20 +58,16 @@ experience.
 
 🎖 Achievements & Credentials
 
-🏆 Runner-Up – Smart India Hackathon 2023
-Recognized for problem-solving, innovation, and teamwork in a national-level hackathon.
-
-🎓 Microsoft Certified – Generative AI
-Gained hands-on knowledge of AI fundamentals, prompt engineering, and real-world use cases.
-
-📚 Research Paper Published – NCIECT 2025
-Published technical research demonstrating analytical thinking and domain expertise.
-
-📱 Certified iOS Developer (A+ Grade)
-Strong foundation in mobile application development and UI design principles.
-
-🌟 Campus Ambassador – DEVTOWN Pvt. Ltd.
-Actively contributed to developer community building, technical outreach, and event coordination.
+**🏆 Runner-Up (Smart India Hackathon 2023)**
+- Recognized for problem-solving, innovation, and teamwork in a national-level hackathon.
+**🎓 Microsoft Certified (Generative AI)**
+- Gained hands-on knowledge of AI fundamentals, prompt engineering, and real-world use cases.
+**📚 Research Paper Published (NCIECT 2025)**
+- Published technical research demonstrating analytical thinking and domain expertise.
+**📱 Certified iOS Developer (A+ Grade)**
+- Strong foundation in mobile application development and UI design principles.
+**🌟 Campus Ambassador – DEVTOWN Pvt. Ltd.**
+- Actively contributed to developer community building, technical outreach, and event coordination.
 
 ---
 
