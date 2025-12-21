@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=950&lines=Hi+there,+I'm+Nishigandha+Kakade;Welcome+to+my+GitHub+Profile!"
-    alt="Typing SVG Banner"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=700&color=0AEFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nishigandha+Kakade;Java+Full+Stack+Developer;Spring+Boot+|+REST+APIs+|+MySQL;Building+Scalable+and+Clean+Backend+Systems"
+    alt="Typing SVG"
   />
 </p>
+
 
 📍 Ahilyanagar, India  
 📧 [nishigandhakakade10@gmail.com](nishigandhakakade10@gmail.com)  
