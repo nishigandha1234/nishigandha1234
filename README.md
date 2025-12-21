@@ -75,6 +75,16 @@ experience.
 
 ---
 
+Why Hire Me?
+
+Strong foundation in Java, Spring Boot, REST APIs, and full-stack development
+
+Experience in real-world projects, hackathons, and research-based problem solving
+
+Quick learner with a passion for clean code, scalable systems, and continuous improvement
+
+Effective team player with leadership and communication experience
+
 ## 📈 Let's Connect!
 
 I'm always excited to collaborate, learn, and contribute to innovative projects. Feel free to explore my work, connect with me, or reach out for exciting opportunities!
