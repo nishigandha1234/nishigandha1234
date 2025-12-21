@@ -77,18 +77,19 @@ experience.
 
 **Why Hire Me?**
 
-Strong foundation in **Core Java, Spring Core, Spring DATA JPA, Spring MVC,HIbernate with JPA, JDBC, Spring Boot, REST APIs and full-stack development**
-Experience in **real-world projects and Hands-on Practice, hackathons and research-based problem solving**
-Quick learner with a passion for clean code, scalable systems and continuous improvement
-Effective team player with leadership and communication experience
-Also Have good idea on **Multithreading and Java 8+ Features** 
+- Strong foundation in **Core Java, Spring Core, Spring DATA JPA, Spring MVC,HIbernate with JPA, JDBC, Spring Boot, REST APIs and full-stack development**
+- Experience in **real-world projects and Hands-on Practice, hackathons and research-based problem solving**
+- Quick learner with a passion for clean code, scalable systems and continuous improvement
+- Effective team player with leadership and communication experience
+- Also Have good idea on **Multithreading and Java 8+ Features** 
 
 ## 📈 Let's Connect!
 
-I’m actively seeking opportunities to contribute as a Java / Full-Stack Developer.
-Feel free to explore my repositories, review my projects, or connect for collaboration and opportunities.
+- I’m actively seeking opportunities to contribute as a Java / Full-Stack Developer.
+- Feel free to explore my repositories, review my projects, or connect for collaboration and opportunities.
 
 👉 GitHub: https://github.com/nishigandha1234/nishigandha1234
+
 👉 LinkedIn: https://www.linkedin.com/in/nishigandha-kakade-54ab53270
 
 ---
