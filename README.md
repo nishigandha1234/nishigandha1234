@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=700&color=0AEFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nishigandha+Kakade;Java+Full+Stack+Developer;Spring+Boot+|+REST+APIs+|+MySQL;Building+Scalable+and+Clean+Backend+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+|+REST+APIs;Focused+on+Scalable+Web+Applications"
     alt="Typing SVG"
   />
 </p>
+
 
 
 📍 Ahilyanagar, India  
