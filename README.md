@@ -19,21 +19,14 @@ Currently, I enhanced my expertise experienced as a **Full Stack Java Intern** a
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Expertise
 
-🛠️ Skills & Expertise
-
-🧠 Languages - Java | SQL | Swift
-
-⚙️ Backend - Spring Core | Spring Boot | Spring MVC | Spring Data JPA | Hibernate | JDBC | Servlets | JSP
-
-🎨 Frontend - HTML5 | CSS3
-
-🧪 Testing - Manual | Functional | Regression | SDLC | STLC | Agile
-
-🛠 Tools - Git | Jira | IntelliJ IDEA | Eclipse | Visual Studio Code | SQL*Plus
-
-💬 Strengths - Analytical Thinking | Excellent Communication | Interpersonal Skills | Team Collaboration
+🧠 **Languages:** `Java` · `SQL` · `Swift`  
+⚙️ **Backend:** `Spring Core` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JDBC` · `Servlets` · `JSP`  
+🎨 **Frontend:** `HTML5` · `CSS3`  
+🧪 **Testing:** Manual · Functional · Regression · SDLC · STLC · Agile  
+🛠 **Tools:** Git · Jira · IntelliJ IDEA · Eclipse · VS Code · SQL*Plus  
+💬 **Strengths:** Analytical Thinking · Communication · Team Collaboration
 
 ---
 
