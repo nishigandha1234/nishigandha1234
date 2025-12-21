@@ -28,6 +28,7 @@ Currently, I enhanced my expertise experienced as a **Full Stack Java Intern** a
 ✔ Jira, Git, Eclipse | IntelliJ IDEA | Visual Studio Code | SQL*Plus  
 ✔ Strong Analytical Thinking | Excellent Communication | Interpersonal Skills  
 ✔ Spring Core | Spring Boot | Spring MVC | Spring DATA JPA | Hibernate with JPA | JDBC | Servlets | JSP
+✔ Multithreading | Java 8+ Features | REST APIs 
 
 
 ---
