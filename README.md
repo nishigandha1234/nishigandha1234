@@ -88,10 +88,10 @@ experience.
 
 ---
 
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishigandha1234&theme=tokyonight"/>
 </p>
 
 ---
