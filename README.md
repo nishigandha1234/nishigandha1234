@@ -31,7 +31,7 @@ Currently, I enhanced my expertise experienced as a **Full Stack Java Intern** a
 
 🛠 **Tools :** `Git` · `JIRA` · `IntelliJ IDEA` · `Eclipse` · `VS Code` · `SQL*Plus` · `MySQL Workbench`· `PG Admin`· `Notepad++`   
 
-💬 **Strengths :** `Analytical Thinking` · `Excellent Communication` · `Team Collaboration`
+💬 **Strengths :** `Analytical Thinking` · `Excellent Communication` · `Team Collaboration` 
 
 ---
 
