@@ -3,7 +3,7 @@
 </p>
 
 
-📍 Pune, Maharashtra, India  
+📍 Pune, Maharashtra, India... 
 📧 [nishigandhakakade10@gmail.com](nishigandhakakade10@gmail.com)  
 🔗 [LinkedIn](http://www.linkedin.com/in/nishigandha-kakade-54ab53270) | [GitHub](https://github.com/nishigandha1234) | [Portfolio](https://nishigandha1234.github.io/Portfolio/)
 
