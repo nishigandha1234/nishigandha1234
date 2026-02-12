@@ -61,7 +61,7 @@ experience.
 
 ****🎖 Achievements & Credentials****
 
-- 🏆 Runner-Up (Smart India Hackathon 2023)  
+- 🏆 AIR1 RANK WINNER (Smart India Hackathon 2023)  
 - 🎓 Microsoft Certified (Generative AI)
 - 📚 Research Paper Published (NCIECT 2025)  
 - 📱 Certified iOS Developer (A+ Grade) 
