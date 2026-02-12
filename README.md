@@ -21,7 +21,7 @@ Currently, I enhanced my expertise experienced as a **Full Stack Java Intern** a
 
 ## 🛠 Skills & Expertise
 
-🧠 **Languages :** `Java` · `SQL` · `Swift` 
+🧠 **Languages :** `Java` · `SQL` 
 
 ⚙️ **Backend :** `Core JAVA` · `Spring Core` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JDBC` · `Servlets` · `JSP`  
 
