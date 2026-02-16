@@ -1,6 +1,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=700&center=true&vCenter=true&width=1050&lines=Hi+there+👋+I'm+Nishigandha+Kakade+✨;Building+with+Passion+%26+Precision+💡;🔁+Code.+Create.+Improve.+Repeat.+🔁;✨+Welcome+to+My+GitHub+World+✨"alt="Typing SVG" />
 </p>
+## 🔥 GitHub Grind & Streak Zone
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishigandha1234&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishigandha1234&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishigandha1234&theme=tokyonight&hide_border=true&fire=FF6A00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishigandha1234&theme=tokyo-night&hide_border=true"/>
+</p>
+
+🔥 <b>Consistency > Intensity.</b>  
+I believe small daily wins create massive long-term results.
+
 
 
 📍 Pune, Maharashtra, India
