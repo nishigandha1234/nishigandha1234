@@ -1,20 +1,27 @@
-name: Generate Snake Animation
+name: Generate Rocket Fire Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:     # 👈 THIS LINE MUST BE HERE
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub contribution snake
+      - name: Generate GitHub contribution snake (Rocket Fire Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: nishigandha1234
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+        env:
+          SNAKE_COLOR: "#FF6A00"          # 🔥 fire orange
+          SNAKE_BG_COLOR: "#0D1117"       # 🎮 dark gaming bg
+          SNAKE_HEAD_COLOR: "#FFD700"     # 🚀 rocket gold head
+          SNAKE_TAIL_COLOR: "#FF0000"     # 🔥 red fire tail
+          SNAKE_EYES_COLOR: "#00FFFF"     # ⚡ neon cyan
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -23,3 +30,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
