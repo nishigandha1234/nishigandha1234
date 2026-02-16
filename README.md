@@ -5,6 +5,23 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nishigandha1234&theme=tokyonight&hide_border=true&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
 </p>
+---
+
+## 🚀🔥 Rocket Snake – Eating My GitHub Streaks
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="rocket snake animation"
+      src="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  🚀 Fuelled by consistency · 🔥 Powered by daily commits · 🎮 Game on
+</p>
+
 
 <p align="center">
   🔥 <b>Daily Code Streak Mode: ON</b> 🔥 <br>
