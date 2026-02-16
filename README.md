@@ -147,3 +147,13 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 <p align="center">
   🚀 <b>Code streaks don’t lie — let the repositories speak.</b> 🚀
 </p>
+
+---
+
+## 🐍 Contribution Snake (Eating My GitHub Streaks 🔥)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+🔥 Watch the snake eat my daily contributions — consistency in motion.
