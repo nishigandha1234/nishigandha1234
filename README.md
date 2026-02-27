@@ -4,17 +4,6 @@
 
 ---
 
-## 🚀🔥 Rocket Snake – Eating My GitHub Streaks
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="rocket snake animation"
-      src="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <p align="center">
   🚀 Fuelled by consistency · 🔥 Powered by daily commits · 🎮 Game on
 </p>
@@ -137,11 +126,6 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nishigandha1234&theme=tokyonight&hide_border=true&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishigandha1234&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishigandha1234&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
