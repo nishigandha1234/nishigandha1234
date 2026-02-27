@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=700&center=true&vCenter=true&width=1050&lines=Hi+there+👋+I'm+Nishigandha+Kakade+✨;Full+Stack+Java+Developer+🚀;Code.+Build.+Ship.+Repeat.+🔥;Welcome+to+My+GitHub+World+🎮" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishigandha1234&theme=tokyonight&hide_border=true&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
-</p>
 ---
 
 ## 🚀🔥 Rocket Snake – Eating My GitHub Streaks
@@ -139,6 +136,10 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 ## 🔥 GitHub Grind & Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishigandha1234&theme=tokyonight&hide_border=true&fire=FF6A00&ring=FF6A00&currStreakLabel=FF6A00" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishigandha1234&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishigandha1234&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
@@ -166,11 +167,4 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 </p>
 
 ---
-
-## 🐍 Contribution Snake (Eating My GitHub Streaks 🔥)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 🔥 Watch the snake eat my daily contributions — consistency in motion.
