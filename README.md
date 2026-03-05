@@ -21,7 +21,8 @@
 🔗 **Links:**  
 - [LinkedIn](https://www.linkedin.com/in/nishigandha-kakade-54ab53270)  
 - [GitHub](https://github.com/nishigandha1234)  
-- [Portfolio](https://nishigandha1234.github.io/Portfolio/)  
+- [Portfolio](https://nishigandha1234.github.io/Portfolio/)
+- [LeetCode](https://leetcode.com/u/nishigandha_1234/)  
 
 ---
 
