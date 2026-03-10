@@ -146,10 +146,10 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 
 👉 GitHub: https://github.com/nishigandha1234  
 👉 LinkedIn: https://www.linkedin.com/in/nishigandha-kakade-54ab53270  
+👉 LeetCode : https://leetcode.com/u/nishigandha_1234
 
 <p align="center">
   🚀 <b>Code streaks don’t lie — let the repositories speak.</b> 🚀
 </p>
 
 ---
-🔥 Watch the snake eat my daily contributions — consistency in motion.
