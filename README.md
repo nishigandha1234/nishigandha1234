@@ -137,6 +137,8 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
   🔥 <b>Consistency beats intensity. Every. Single. Day.</b> 🔥
 </p>
 
+## MY GITHUB
+![Space Shooter](assets/space-shooter.gif)
 ---
 
 ## 📈 Let’s Connect & Build
@@ -147,9 +149,6 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 👉 GitHub: https://github.com/nishigandha1234  
 👉 LinkedIn: https://www.linkedin.com/in/nishigandha-kakade-54ab53270  
 👉 LeetCode : https://leetcode.com/u/nishigandha_1234
-
-![Space Shooter](assets/space-shooter.gif)
-
 
 <p align="center">
   🚀 <b>Code streaks don’t lie — let the repositories speak.</b> 🚀
