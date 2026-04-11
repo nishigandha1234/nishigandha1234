@@ -137,7 +137,7 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
   🔥 <b>Consistency beats intensity. Every. Single. Day.</b> 🔥
 </p>
 
-## MY GITHUB
+## 🎯MY GITHUB
 ![Space Shooter](assets/space-shooter.gif)
 ---
 
