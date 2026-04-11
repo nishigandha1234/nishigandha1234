@@ -131,7 +131,9 @@ I have experience in **Core Java, SQL, Spring Boot, REST APIs**, and **manual te
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishigandha1234&theme=tokyo-night&hide_border=true"/>
+  
 </p>
+![Space Shooter](https://raw.githubusercontent.com/nishigandha1234/nishigandha1234/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   🔥 <b>Consistency beats intensity. Every. Single. Day.</b> 🔥
