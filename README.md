@@ -98,23 +98,6 @@ Spring Boot + PostgreSQL + REST APIs
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nishigandha1234&theme=tokyonight"/>
 
 </p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishigandha1234&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishigandha1234&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
