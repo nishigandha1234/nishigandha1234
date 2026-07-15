@@ -112,9 +112,7 @@ Spring Boot + PostgreSQL + REST APIs
 ## 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishigandha1234&theme=tokyonight&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=nishigandha1234&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
