@@ -6,7 +6,7 @@
 
 <p align="center">
 Passionate Full Stack Java Developer | Spring Boot Enthusiast | Backend Developer | Problem Solver
-</p>
+</p>   
 
 ---
 
