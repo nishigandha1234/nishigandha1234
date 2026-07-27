@@ -94,7 +94,7 @@ Spring Boot + PostgreSQL + REST APIs
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishigandha1234&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishigandha1234&show_icons=true&theme=tokyonight"/> 
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nishigandha1234&theme=tokyonight"/>
 
