@@ -4,7 +4,6 @@
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-
 <p align="center">
 Passionate Full Stack Java Developer | Spring Boot Enthusiast | Backend Developer | Problem Solver
 </p>   
