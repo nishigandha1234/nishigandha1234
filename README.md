@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Nishigandha+Kakade;Full+Stack+Java+Developer;Spring+Boot+%7C+Java+%7C+REST+API+Developer;Always+Learning+%7C+Always+Building+🚀" alt="Typing SVG"/>
-</p> 
+</p>  
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
